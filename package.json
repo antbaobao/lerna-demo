@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 dddddddname": "root",
-=======
 j:name": "root",
->>>>>>> b-1
+lllllj:name": "root",
   "private": true,
   "devDependencies": {
 d    "lerna": "^3.20.2"
